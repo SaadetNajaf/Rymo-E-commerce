@@ -17,7 +17,6 @@ Rymo is a stylish and modern e-commerce website built with **HTML**, **CSS**, an
 
 - **HTML5** 🌐 - The structure of the webpage is built using modern HTML.
 - **CSS3** 🎨 - Styling of the webpage for an aesthetically pleasing design.
-- **Bootstrap** 📐 - Responsive grid system for fluid layout and prebuilt components for navigation, buttons, and more.
 - **Font Awesome** 🔠 - Icons for social media and other UI elements.
 
 ## 🔍 Preview  
