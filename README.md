@@ -8,16 +8,22 @@ Rymo is a stylish and modern e-commerce website built with **HTML**, **CSS**, an
 
  ✅ **Responsive Design**
  Optimized for all screen sizes, ensuring a great user experience on mobile, tablet, and desktop devices.
+ 
 ✅ **Navigation Bar**
 Easy-to-use navigation with links to the home page, shop, blog, about, and contact us.
+
 ✅ **Product Sections**
 Includes featured products, new arrivals, and category-specific sections for shoes, watches, and clothes.
+
 ✅ **Product Display**
 Each product has an image, description, star rating, and price with a "Buy Now" button.
+
 ✅ **Brand Showcase**
 Display of popular brands with clickable logos.
+
 ✅ **Sale Banners**
 Attention-grabbing banners announcing sales and discounts.
+
 ✅ **Social Media Links**
 Icons linking to social media platforms (Facebook, Instagram, Twitter).
 
